@@ -1,0 +1,3 @@
+﻿  circle area.c
+D:\All About Coding\C Programing\circle area\circle area\circle area.c(6,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  circle area.vcxproj -> D:\All About Coding\C Programing\circle area\Debug\circle area.exe
